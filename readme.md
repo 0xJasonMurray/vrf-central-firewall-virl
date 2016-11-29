@@ -1,7 +1,7 @@
 # Overview
 [VIRL](http://virl.cisco.com) mockup of centralized firewall topology using VRFs for security zone isolation.
 
-# Summary of Design
+# Brief Summary of Design
 
 * All Cisco network.   
 * Default routes are injected to both the transit core and the firewalls.   
