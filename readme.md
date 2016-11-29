@@ -1,7 +1,7 @@
 # Overview
 [VIRL](http://virl.cisco.com) mockup of centralized firewall topology using VRFs for security zone isolation.
 
-** Please note, this is a lab configuration and not meant to be a best practice design.   The primary goal was to build a proof-of-concept using VRFs for security zone isolation. **
+**Please note, this is a lab configuration and not meant to be a best practice design.   The primary goal was to build a proof-of-concept using VRFs for security zone isolation.**
 
 
 # Brief Summary of Design
