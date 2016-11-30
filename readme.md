@@ -3,6 +3,7 @@
 
 **Please note, this is a lab configuration and not meant to be a best practice design.   The primary goal was to build a proof-of-concept using VRFs for security zone isolation.**
 
+![topology](https://github.com/duxklr/vrf-central-firewall-virl/blob/master/vrf-central-firewall-virl.png)
 
 # Brief Summary of Design
 
@@ -18,4 +19,4 @@
 
 # Files
   * Network diagram
-  * VIRL configuration file
+  * VIRL configuration file; includes individual router and firewall configurations.
